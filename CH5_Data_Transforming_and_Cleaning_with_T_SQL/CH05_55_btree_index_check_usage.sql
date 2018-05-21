@@ -1,0 +1,1 @@
+SELECT OrderLineId, ProductKey FROM Analytics.Orders WHERE ProductKey = 5

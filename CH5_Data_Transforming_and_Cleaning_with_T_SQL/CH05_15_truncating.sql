@@ -1,0 +1,1 @@
+TRUNCATE TABLE Landing.Products2

@@ -1,0 +1,1 @@
+SELECT * FROM OPENQUERY('REMOTESRV', 'SELECT * FROM Accounting.Enum.Accounts')

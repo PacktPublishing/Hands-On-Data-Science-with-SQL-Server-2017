@@ -1,0 +1,1 @@
+SELECT * FROM REMOTESRV.Accounting.Enums.Accounts

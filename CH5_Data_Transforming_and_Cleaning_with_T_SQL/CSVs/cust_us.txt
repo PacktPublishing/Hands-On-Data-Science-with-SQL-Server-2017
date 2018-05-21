@@ -1,0 +1,3 @@
+﻿firstname,lastname,age,income
+Tom,Single,25,40000
+Tracy,Double,32,58000
