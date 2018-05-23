@@ -1,0 +1,15 @@
+CREATE DATABASE ImportedData
+GO
+USE ImportedData
+GO
+
+CREATE TABLE XMLwithOpenXML
+(
+    Id INT IDENTITY PRIMARY KEY,
+    XMLData XML,
+    LoadedDateTime DATETIME
+)
+
+INSERT INTO XMLwithOpenXML(XMLData, LoadedDateTime)
+SELECT CONVERT(XML, BulkColumn) AS BulkColumn, GETDATE()
+FROM OPENROWSET(BULK 'C:\SQLData\Import.xml', SINGLE_BLOB) AS importedXML;
