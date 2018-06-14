@@ -1,0 +1,1 @@
+EXEC procLoadServiceTicketHistory '20180601'

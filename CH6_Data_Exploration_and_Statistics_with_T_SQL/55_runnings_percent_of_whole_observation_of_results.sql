@@ -1,0 +1,1 @@
+SELECT MIN(OrderDate), MAX(OrderDate) FROM Sales.SalesOrderHeader

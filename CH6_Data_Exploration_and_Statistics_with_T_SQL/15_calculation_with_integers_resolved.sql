@@ -1,0 +1,1 @@
+SELECT 1 * 1. / 2    -- result is 0.5 now

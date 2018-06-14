@@ -1,0 +1,1 @@
+SELECT 1 / 2    -- result is NOT 0.5 but 0

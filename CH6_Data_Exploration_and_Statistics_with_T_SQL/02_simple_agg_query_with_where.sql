@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM Sales.SalesOrderDetail WHERE ProductID = 710
