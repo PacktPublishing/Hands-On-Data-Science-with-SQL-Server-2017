@@ -1,0 +1,1 @@
+df <- read.csv2("ProductsWithCategories.csv", dec=".")
