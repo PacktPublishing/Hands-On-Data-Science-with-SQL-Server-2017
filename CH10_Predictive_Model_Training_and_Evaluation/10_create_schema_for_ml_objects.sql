@@ -1,0 +1,3 @@
+USE DemoModel
+go
+CREATE SCHEMA Models AUTHORIZATION dbo;
