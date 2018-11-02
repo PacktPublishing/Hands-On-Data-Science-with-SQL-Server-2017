@@ -1,0 +1,1 @@
+create message type AsyncTrainingRequest validation = well_formed_xml

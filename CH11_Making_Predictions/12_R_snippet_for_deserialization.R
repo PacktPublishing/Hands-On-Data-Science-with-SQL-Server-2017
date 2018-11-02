@@ -1,0 +1,1 @@
+newModel <- unserialize(as.raw(stream));

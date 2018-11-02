@@ -1,0 +1,1 @@
+select ModelStream from Models.ModelVersionsTemporal where ModelTypesId = 1
