@@ -1,0 +1,1 @@
+df$zScorePrice <- zOfAllPrices

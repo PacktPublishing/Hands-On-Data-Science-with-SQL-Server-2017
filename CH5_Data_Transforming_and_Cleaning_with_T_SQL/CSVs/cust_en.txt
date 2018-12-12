@@ -1,3 +1,0 @@
-﻿firstname,lastname,age,income
-Adam,Barr,45,60000
-Ashley,White,36,56000

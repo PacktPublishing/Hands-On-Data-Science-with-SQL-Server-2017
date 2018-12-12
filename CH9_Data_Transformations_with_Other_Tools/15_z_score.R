@@ -1,1 +1,0 @@
-zOfAllPrices <- (price - meanPrice) / sdPrice
