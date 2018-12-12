@@ -4,7 +4,7 @@ Hands-On Data Science with SQL Server 2017, published by Packt
 
 <a href="Packt UTM URL of the Book"><img src="Cover Image URL of the Book" alt="Book Name" height="256px" align="right"></a>
 
-This is the code repository for [Book Name](Packt UTM URL of the Book), published by Packt.
+This is the code repository for [Hands-On-Data-Science-with-SQL-Server-2017](Packt UTM URL of the Book), published by Packt.
 
 **Perform end-to-end data analysis to gain efficient data insight**
 
@@ -38,7 +38,7 @@ FROM Person.Person
 **Following is what you need for this book:**
 Hands-On Data Science with SQL Server 2017 is intended for data scientists, data analysts, and big data professionals who want to master their skills learning SQL and its applications. This book will be helpful even for beginners who want to build their career as data science professionals using the power of SQL Server 2017. Basic familiarity with SQL language will aid with understanding the concepts covered in this book.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-12).
 
 ### Software and Hardware List
 
@@ -67,8 +67,8 @@ Nowadays, Vladimír is a data science enthusiast and works on data migration/int
 
 
 ## Other books by the authors
-* [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
-* [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
+* [SQL Server 2017 Developer's Guide](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
+* [SQL Server 2017 Administrator's Guide](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
