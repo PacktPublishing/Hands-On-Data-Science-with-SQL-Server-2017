@@ -2,9 +2,9 @@
 Hands-On Data Science with SQL Server 2017, published by Packt
 # Hands-On-Data-Science-with-SQL-Server-2017
 
-<a href="Packt UTM URL of the Book"><img src="Cover Image URL of the Book" alt="Book Name" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/big-data-and-business-intelligence/hands-data-science-sql-server-2017?utm_source=github&utm_medium=repository&utm_campaign=9781788996341"><img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B10336.png" alt="Book Name" height="256px" align="right"></a>
 
-This is the code repository for [Hands-On-Data-Science-with-SQL-Server-2017](Packt UTM URL of the Book), published by Packt.
+This is the code repository for [Hands-On-Data-Science-with-SQL-Server-2017](https://www.packtpub.com/big-data-and-business-intelligence/hands-data-science-sql-server-2017?utm_source=github&utm_medium=repository&utm_campaign=9781788996341), published by Packt.
 
 **Perform end-to-end data analysis to gain efficient data insight**
 
