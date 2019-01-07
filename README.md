@@ -51,9 +51,9 @@ With the following software and hardware list you can run all code files present
 
 
 ### Related products <Other books you may enjoy>
-* SQL Server 2017 Developer's Guide [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788476190)
+* SQL Server 2017 Developer's Guide [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/sql-server-2017-developers-guide?utm_source=github&utm_medium=repository&utm_campaign=9781788476195) [[Amazon]](https://www.amazon.com/dp/1788476190)
 
-* SQL Server 2017 Administrator's Guide [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1786462540)
+* SQL Server 2017 Administrator's Guide [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/sql-server-2017-administrators-guide?utm_source=github&utm_medium=repository&utm_campaign=9781786462541) [[Amazon]](https://www.amazon.com/dp/1786462540)
 
 ## Get to Know the Author(s)
 **Marek Chmel**
