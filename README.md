@@ -66,8 +66,8 @@ Nowadays, Vladimír is a data science enthusiast and works on data migration/int
 
 
 ## Other books by the authors
-* [SQL Server 2017 Developer's Guide](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
-* [SQL Server 2017 Administrator's Guide](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
+* [SQL Server 2017 Developer's Guide](https://www.packtpub.com/big-data-and-business-intelligence/sql-server-2017-developers-guide?utm_source=github&utm_medium=repository&utm_campaign=9781788476195)
+* [SQL Server 2017 Administrator's Guide](https://www.packtpub.com/big-data-and-business-intelligence/sql-server-2017-administrators-guide?utm_source=github&utm_medium=repository&utm_campaign=9781786462541)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
